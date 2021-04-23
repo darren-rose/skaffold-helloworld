@@ -1,6 +1,6 @@
 # hello-skaffold
 
-skaffold.dev example
+[skaffold.dev](skaffold.dev) example
 
 ### run
 
