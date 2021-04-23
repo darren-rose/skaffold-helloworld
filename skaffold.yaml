@@ -7,6 +7,7 @@ deploy:
   kubectl:
     manifests:
       - hello-skaffold-pod.yaml
+      - hello-skaffold-service.yaml
 
 
 

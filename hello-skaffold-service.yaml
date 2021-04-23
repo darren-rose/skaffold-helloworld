@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: hello-skaffold
+spec:
+  ports:
+    - port: 80
+      targetPort: nginx
+      name: nginx
+  selector:
+    app: hello-skaffold
+
+
