@@ -1,6 +1,6 @@
 # hello-skaffold
 
-[skaffold.dev](skaffold.dev) example
+[skaffold.dev](https://skaffold.dev) example
 
 ### run
 
