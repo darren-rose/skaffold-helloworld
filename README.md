@@ -18,6 +18,6 @@ in another terminal, make changes to `main.go`
 
 ### observe
 
-observe the changes automatically deloyed
+observe the changes automatically deployed
 
 
